@@ -339,7 +339,7 @@ const Index = () => {
           
           <div className="text-center mt-8 pt-8 border-t border-[#50696b]/30">
             <p className="text-gray-400 text-sm">
-              © 2024 Squdira. All rights reserved. Built on Ethereum.
+              © 2025 Squdira. All rights reserved. Built on Blockchain.
             </p>
           </div>
         </div>
